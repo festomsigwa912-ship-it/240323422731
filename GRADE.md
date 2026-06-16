@@ -13,11 +13,11 @@
 | Class Participation|  10%    |           |                |                                              |
 | Assignment 0       |   4%    |     100.0 |                |                                              |
 | Assignment 1       |  10%    |      95.0 |                |                                              |
-| Quiz 1             |   4%    |           |                |                                              |
+| Quiz 1             |   4%    |      77.0 |                |                                              |
 | Assignment 2       |  10%    |           |                |                                              |
 | Quiz 2             |   4%    |           |                |                                              |
 | Test I             |  15%    |           |                |                                              |
 | Assignment 3       |  13%    |           |                |                                              |
 | Test II            |  15%    |           |                |                                              |
 | Project            |  15%    |           |                |                                              |
-| **Total**          | **100%**|  **75.00**|   **45.00/60** |                                              |
+| **Total**          | **100%**|  **92.11**|   **55.27/60** |                                              |
